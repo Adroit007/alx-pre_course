@@ -1,1 +1,2 @@
-My first readme
+
+this is the main README for the alx-pre_course repository.
